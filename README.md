@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 General
@@ -11,3 +12,6 @@ What ORM means
 How to map a Python Class to a MySQL table
 How to handle 2 different storage engines with the same codebase
 How to use environment variables
+=======
+an alx group project 0x02. AirBnB clone - MySQL
+>>>>>>> 173299cc64512fd3d380685dd99b53b3f044ffaa
